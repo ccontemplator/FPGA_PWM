@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Tue Jan 24 21:42:40 2023
+# Process ID: 19940
+# Current directory: C:/Users/USER/Xilinx/FPGA_lab/PWM_PCIE/PWM_PCIE.runs/impl_1
+# Command line: vivado.exe -log PWM.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source PWM.tcl -notrace
+# Log file: C:/Users/USER/Xilinx/FPGA_lab/PWM_PCIE/PWM_PCIE.runs/impl_1/PWM.vdi
+# Journal file: C:/Users/USER/Xilinx/FPGA_lab/PWM_PCIE/PWM_PCIE.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source PWM.tcl -notrace
